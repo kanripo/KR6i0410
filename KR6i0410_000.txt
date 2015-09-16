@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 緣生初勝分法本經
+#+DATE: 2015-08-30 20:18:18.169654
+#+PROPERTY: JUAN 0
