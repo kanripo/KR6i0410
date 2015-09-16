@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:17.936047
+#+DATE: 2015-08-30 20:18:19.390103
 #+TITLE: 緣生初勝分法本經
 #+PROPERTY: CBETA_ID T16n0716
 #+PROPERTY: ID KR6i0410
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 716
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0410_T_000-0830b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0410_T_002-0833c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《緣生初勝分法本經》卷下¶
+《緣生初勝分法本經》卷下¶
 ¶
 隋天竺三藏達磨笈多譯¶
 
@@ -567,11 +566,7 @@
 ¶
 ¶
 
-緣生經并論序
-:PROPERTIES:
-:head: 緣生經并論序
-:END:
-¶
+緣生經并論序¶
 ¶
 
 原是一心，積為三界，癡流漫遠，苦樹欝高，欲討¶
