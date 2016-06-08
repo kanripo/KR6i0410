@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:17.901829
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:29
 #+TITLE: 緣生初勝分法本經
 #+PROPERTY: CBETA_ID T16n0716
 #+PROPERTY: ID KR6i0410
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 716
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0410_T_000-0830b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0410_T_001-0830b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.716[No.717]¶
-
- 《緣生初勝分法本經》卷上¶
+No. 716 [No. 717]¶
+《緣生初勝分法本經》卷上¶
 ¶
 隋天竺三藏達磨笈多譯¶
 
