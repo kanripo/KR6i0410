@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:17.901829
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:29
 #+TITLE: 緣生初勝分法本經
 #+PROPERTY: CBETA_ID T16n0716
 #+PROPERTY: ID KR6i0410
